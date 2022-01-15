@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: sotip
+Version: 1.0
+Summary: Spatial Omics Microenvironment analysis
+Home-page: https://github.com/TencentAILabHealthcare/SOTIP
+Author: Zhiyuan Yuan
+Author-email: 707699544@qq.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+SOTIP
+
+
