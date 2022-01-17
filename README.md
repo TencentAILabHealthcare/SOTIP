@@ -35,6 +35,7 @@ Herarchical merging for MIBI-TOF data
 </p>
 
 ## Tutorial
+Please install Jupyter in order to open these notebooks.
 
 For the step-by-step tutorial, please refer to: 
 <br>
@@ -46,10 +47,10 @@ For the reproduction of paper's results, please refer to:
 https://github.com/TencentAILabHealthcare/SOTIP/tree/master/SOTIP_analysis/
 <br>
 
-Please install Jupyter in order to open these notebooks.
-
-Please download demo datasets from 10.6084/m9.figshare.18516128.
-
+Please download demo datasets from following doi: 
+<br>
+10.6084/m9.figshare.18516128.
+<br>
 
 ## How to install?
 - git clone this repository
