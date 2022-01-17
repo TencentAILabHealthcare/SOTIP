@@ -46,7 +46,9 @@ For the reproduction of paper's results, please refer to:
 https://github.com/TencentAILabHealthcare/SOTIP/tree/master/SOTIP_analysis/
 <br>
 
-Please install Jupyter in order to open this notebook.
+Please install Jupyter in order to open these notebooks.
+
+Please download demo datasets from 10.6084/m9.figshare.18516128.
 
 
 ## How to install?
