@@ -82,7 +82,7 @@ All rights reserved.
 
 Please consider citing the following reference:
 
-- TBD
+- Zhiyuan Yuan, Yisi Li, Minglei Shi et al. SOTIP: a Unified Framework for Microenvironment Modelling with Spatial Omics Data, 19 January 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1263025/v1]
 
 <br>
 
