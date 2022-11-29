@@ -2,7 +2,7 @@
 
 ## SOTIP is a Versatile Method for Microenvironment Modelling with Spatial Omics Data
 
-### Developer: Zhiyuan Yuan (yuanzy16@mails.tsinghua.edu.cn) Yisi Li (li-ys16@mails.tsinghua.edu.cn)
+### Developer: Zhiyuan Yuan (zhiyuan@fudan.edu.cn) Yisi Li (li-ys16@mails.tsinghua.edu.cn)
 
 The rapid development of spatial omics techniques generates datasets with diverse scales and modalities. However, most existing methods focus on modeling dynamics of single cells and ignore microenvironments (MEs) which bridge single cells to tissues. Here we present SOTIP, a scalable framework incorporating MEs and their relationships into a unified graph. Based on this graph, three tasks can be performed, namely, spatial heterogeneity (SHN) quantification, spatial domain (SDM) identification and differential microenvironment (DME) analysis. We validate SOTIP’s high performance of accuracy, robustness, interpretation, and scalability on various datasets by comparing with state-of-art methods. In mammalian cerebral cortex, we reveal a striking gradient SHN pattern with strong correlations with the cortical depth. In human triple-negative breast cancer (TNBC), we identify previously unreported molecular polarizations around SOTIP-detected tumor-immune boundaries. Most importantly, we discover MEs which specifically occur in different TNBC subtypes with certain compositional and spatial properties, could be powerful clinical indicators. Overall, by modeling biologically explainable microenvironments, SOTIP outperforms state-of-art methods and provides new perspectives for data interpretation, which facilitates further understanding of spatial information on a variety of biological issues.
 
@@ -127,7 +127,7 @@ All rights reserved.
 
 Please consider citing the following reference:
 
-- Zhiyuan Yuan, Yisi Li, Minglei Shi, Fan Yang, Juntao Gao, Jianhua Yao, Michael Zhang. SOTIP: a Unified Framework for Microenvironment Modelling with Spatial Omics Data, 19 January 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1263025/v1]
+- Yuan, Z., Li, Y., Shi, M. et al. SOTIP is a versatile method for microenvironment modeling with spatial omics data. Nat Commun 13, 7330 (2022). https://doi.org/10.1038/s41467-022-34867-5
 
 <br>
 
